@@ -1,6 +1,6 @@
 # node-jwt
 
-This repository represents the sample of the tutorial: [How to Build an Authentication API with JWT Token in Node.js](https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs)
+This repository represents the sample of the tutorial: [How to Build an Authentication API with JWT Token in Node.js](https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/)
 
 ## database
 
